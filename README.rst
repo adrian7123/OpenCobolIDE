@@ -181,3 +181,6 @@ Screenshots
 .. _keyring: https://pypi.python.org/pypi/keyring
 .. _HackEdit: https://github.com/HackEdit/hackedit
 .. _AUR: https://aur.archlinux.org/packages/opencobolide/
+.. _future: https://pypi.org/project/future/
+.. _distro: https://pypi.org/project/distro/
+
