@@ -35,6 +35,8 @@ Dependencies
 - `Python3`_ >= 3.3
 - `PyQt5`_ (preferred) or `PyQt4`_
 - `setuptools`_
+- `future`_
+- `distro`_
 
 *Starting from v4.7, the following pure python dependencies are bundled with OCIDE (this makes packaging easier):*
 
